@@ -1,5 +1,5 @@
 
-package com.company;
+package lesson1;
 
 import java.util.regex.Pattern;
 
